@@ -15,11 +15,9 @@
 - Memcached
 - Rabbitmq
 - ElasticSearch
-# Database
-Here,we used Mysql DB 
-sql dump file:
-- /src/main/resources/db_backup.sql
-- db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
-- > mysql -u <user_name> -p accounts < db_backup.sql
+# Deployment
+<img width="1612" height="1205" alt="aws drawio" src="https://github.com/user-attachments/assets/d7c708b5-2ae7-4eee-99c2-b086e1bfd07c" />
+
+
 
 
