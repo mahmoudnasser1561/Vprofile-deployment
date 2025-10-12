@@ -16,7 +16,7 @@
 - Rabbitmq
 - ElasticSearch
 # Deployment
-<img width="1612" height="1205" alt="aws drawio" src="https://github.com/user-attachments/assets/d7c708b5-2ae7-4eee-99c2-b086e1bfd07c" />
+<img width="1642" height="1272" alt="aws drawio(1)" src="https://github.com/user-attachments/assets/9f76e2b4-5b7f-4e91-977d-93dc23e2d316" />
 
 
 
