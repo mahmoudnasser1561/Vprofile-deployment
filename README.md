@@ -35,7 +35,7 @@ This is a reference architecture design showcasing a multi-tier web application 
 - Security groups and Network ACLs
 - No hardcoded credentials (IAM roles)
 
-## High Availability**
+## High Availability
 - Multi-AZ deployment across two availability zones
 - Auto Scaling with health checks and automatic recovery
 - RDS Multi-AZ automatic failover (< 2 minutes)
