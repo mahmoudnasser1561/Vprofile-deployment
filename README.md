@@ -4,7 +4,7 @@ A production-ready, scalable Platform-as-a-Service architecture design demonstra
 ## Overview
 This is a reference architecture design showcasing a multi-tier web application infrastructure using AWS services. The design emphasizes security and scalability.
 
-<img width="1999" height="991" alt="vprofile_AWS-Page-3 drawio(1)" src="https://github.com/user-attachments/assets/573e5304-3071-41fc-9208-f7e21a148d42" />
+<img width="3998" height="1982" alt="vprofile_AWS-Page-3 drawio(4)" src="https://github.com/user-attachments/assets/1a24af25-6db3-4250-ac56-41f0ac3cec30" />
 
 
 ## Architecture Components
